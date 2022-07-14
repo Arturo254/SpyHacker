@@ -9,3 +9,5 @@ wget https://www.mediafire.com/file/oggznmesop9t4ey/SpyHacker.zip/file
 y descomprimir el archivo con:
 
 unzip SpyHacker.zip
+
+chmod +x *
